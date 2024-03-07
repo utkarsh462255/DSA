@@ -1,1 +1,1 @@
-Solving all the Striver's DSA Sheet.
+Solving Striver's DSA Sheet.
